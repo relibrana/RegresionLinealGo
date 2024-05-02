@@ -1,1 +1,1 @@
-# RegresionLinearGo
+# RegresionLinealGo
